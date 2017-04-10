@@ -308,10 +308,10 @@ export default function createGame() {
 	}
 
 	var sprites = {
-		bird: "https://xviniette.github.io/FlappyLearning/img/bird.png",
-		background: "https://xviniette.github.io/FlappyLearning/img/background.png",
-		pipetop: "https://xviniette.github.io/FlappyLearning/img/pipetop.png",
-		pipebottom: "https://xviniette.github.io/FlappyLearning/img/pipebottom.png"
+		bird: "https://lucifier129.github.io/factor-network/examples/src/flappy-learning/img/bird.png",
+		background: "https://lucifier129.github.io/factor-network/examples/src/flappy-learning/img/background.png",
+		pipetop: "https://lucifier129.github.io/factor-network/examples/src/flappy-learning/img/pipetop.png",
+		pipebottom: "https://lucifier129.github.io/factor-network/examples/src/flappy-learning/img/pipebottom.png"
 	}
 
 	var startGame = function(settings) {
